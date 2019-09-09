@@ -8,7 +8,7 @@ let chromeDriver = undefined;
 
 
 
-Given('Dados datos de usuario billeteraId: {int}', function (billeteraId) {
+Given('Dados datos de  billeteraId: {int}', function (billeteraId) {
     this.billeteraId = billeteraId;
   });
 
